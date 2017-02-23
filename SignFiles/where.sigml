@@ -1,0 +1,26 @@
+<sigml>
+
+	<hns_sign gloss="where">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="hwer"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hambetween/>
+			<hamflathand/>
+			<hamthumbopenmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingeruo/>
+			<hampalmu/>
+			<hamchest/>
+			<hamclose/>
+			<hamcircled/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

@@ -1,0 +1,30 @@
+<sigml>
+
+	<hns_sign gloss="quiet">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Qy:_et"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinch12open/>
+			<hamparbegin/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamplus/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamindexfinger/>
+			<hamfingertip/>
+			<hamplus/>
+			<hamindexfinger/>
+			<hamfingertip/>
+			<hamtouch/>
+			<hamparend/>
+			<hammover/>
+			<hamarcd/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

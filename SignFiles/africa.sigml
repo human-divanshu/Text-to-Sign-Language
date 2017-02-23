@@ -1,0 +1,21 @@
+<sigml>
+
+	<hns_sign gloss="Africa">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="{frVa"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumbacrossmod/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamhead/>
+			<hamclose/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamcirclei/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

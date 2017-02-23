@@ -1,0 +1,27 @@
+<sigml>
+
+	<hns_sign gloss="B">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="bi:"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinch12open/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamparbegin/>
+			<hamfingertip/>
+			<hamthumb/>
+			<hamindexfinger/>
+			<hamplus/>
+			<hamfingertip/>
+			<hamthumb/>
+			<hamindexfinger/>
+			<hamparend/>
+			<hamtouch/>
+			<hamchest/>
+			<hamclose/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

@@ -1,0 +1,45 @@
+<sigml>
+
+	<hns_sign gloss="mother">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="mDV@r:"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hambetween/>
+			<hamflathand/>
+			<hamfingerbendmod/>
+			<hamthumbacrossmod/>
+			<hampinky/>
+			<hamdoublebent/>
+			<hamextfingeru/>
+			<hampalmul/>
+			<hamforehead/>
+			<hamlrat/>
+			<hamclose/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hambetween/>
+			<hamflathand/>
+			<hamfingerbendmod/>
+			<hamthumbacrossmod/>
+			<hampinky/>
+			<hamdoublebent/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingeril/>
+			<hampalmd/>
+			<hamforehead/>
+			<hamlrat/>
+			<hamseqbegin/>
+			<hamtouch/>
+			<hamfingertip/>
+			<hammiddlefinger/>
+			<hamseqend/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

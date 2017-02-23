@@ -1,0 +1,23 @@
+<sigml>
+
+	<hns_sign gloss="yes">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="jes"/>
+			<hnm_head tag="NO"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumbacrossmod/>
+			<hamextfingerol/>
+			<hambetween/>
+			<hamextfingeruo/>
+			<hampalmd/>
+			<hamchest/>
+			<hambetween/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamnodding/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>

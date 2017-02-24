@@ -4307,6 +4307,9 @@ this._gl.generateMipmap(this._gl.TEXTURE_2D);
 this._gl.bindTexture(this._gl.TEXTURE_2D, null);
 imgSrc = this._texture.image.src;
 srcDesc = Data.isDataURL(imgSrc) ? "data URL" : imgSrc;
+// custom code by DSingh
+tuavatarLoaded = true;
+// custom code by DSingh
 log("Texture: loaded from source " + srcDesc);
 return this._textureLoaded = true;
 };

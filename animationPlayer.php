@@ -1,4 +1,4 @@
-        <div style="box-sizing: border-box; width: 30%; height: 80%; padding: 15px; float:right; margin-right:5%;" >
+        <div style="box-sizing: border-box; width: 30%; height: 80%; padding: 15px; float:right; margin-right:14%;" >
             <table align="center" style="width:100%; height:100%;" >
                 <tr align="center">
                     <!--================================================================-->

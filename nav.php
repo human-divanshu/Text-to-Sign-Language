@@ -1,3 +1,4 @@
+<?php $pageName = ""; // dummary variable to avoid errors ?>
 <!-- Fixed navbar -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">

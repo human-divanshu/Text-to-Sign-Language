@@ -16,6 +16,7 @@
 				
 			// global variable to store the sigmal list
 			var sigmlList = null;
+
             // global variable to tell if avatar is ready or not
             var tuavatarLoaded = false;
 		</script>

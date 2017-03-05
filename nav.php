@@ -28,15 +28,15 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Project<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="#">History</a></li>
-            <li><a href="#">Objective</a></li>
-            <li><a href="#">Working</a></li>
-            <li><a href="#">Funding</a></li>
-            <li><a href="#">Contributors</a></li>
-            <li><a href="#">Publications</a></li>
+            <li><a href="history.php">History</a></li>
+            <li><a href="objective.php">Objective</a></li>
+            <li><a href="working.php">Working</a></li>
+            <li><a href="funding.php">Funding</a></li>
+            <li><a href="contributors.php">Contributors</a></li>
+            <li><a href="publications.php">Publications</a></li>
           </ul>
         </li>
-        <li <?php if($pageName=='about-piratica-it-services-and-training.php') echo 'class="active"'; ?>><a href="#">Workshop</a></li>
+        <li <?php if($pageName=='##') echo 'class="active"'; ?>><a href="#">Workshop</a></li>
         <li <?php if($pageName=='contact-piratica.php') echo 'class="active"'; ?>><a href="#">Contact</span></a></li>
       </ul>
     </div><!--/.nav-collapse -->

@@ -1,0 +1,53 @@
+body{
+padding-top:50px;
+}
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size:22px;
+    color:black;
+}
+
+label, input {
+    display:block;
+}
+
+input {
+    margin-bottom:15px;
+    padding:2px;
+    border-radius:3px;
+    border:1px solid #777;
+}
+
+#sideBar{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+#sideBar li{
+    background:#eee;
+    padding:10px;
+    margin-bottom:2px;
+    text-align:center;
+}
+
+#sideBar li:hover{
+    background:#ddd;
+}
+
+#sideBar .active {
+    background:#ddd;
+}
+
+#errorDisplay {
+    margin-top:10px;
+}
+
+#errorDisplay p {
+    color:red!important;
+}

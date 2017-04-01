@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link,a:visited,a:hover,a:active{color:#f00;text-decoration:none}
+.stripe1 { background-color:#DDDDDD }
+.stripe2 { background-color:#CCEEFF }
+td { text-align:center }
+a.ham { font-family:"hamnosysunicoderegular"; font-size:larger }
+span.ham { font-family:"hamnosysunicoderegular"; font-size:larger }
+#hamcaption { text-align:center;font-family:"hamnosysunicoderegular";font-size:xx-large }

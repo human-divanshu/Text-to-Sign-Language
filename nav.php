@@ -17,14 +17,15 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
 <li <?php if($pageName=='index.php') echo 'class="active"'; ?>><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-        <li class="dropdown">
+<li <?php if($pageName=='team.php') echo 'class="active"'; ?>><a href="team.php">Team</a></li>
+        <!--<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Team <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu" style="min-width:180px; padding-right:10px;">
             <li><a href="#">Principle Investigator</a></li>
             <li><a href="#">Co-principle Investigator</a></li>
             <li><a href="#">Research Assistant</a></li>
           </ul>
-        </li>
+        </li>-->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Project<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">

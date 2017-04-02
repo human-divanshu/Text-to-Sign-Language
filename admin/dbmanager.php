@@ -10,11 +10,19 @@
 <html>
 <head>
     <?php require_once("common-head.php"); ?>
-    <title>Database Manager - ISL</title>
+    <title>Word Manager - ISL</title>
     <style>
-    .eng_word {
-        display: inline-block; background: #ccc; padding:10px 15px; margin: 5px; width:130px;
+    .eng_word0 {
+        display: inline-block; background: red; color:white; padding:10px 15px; margin: 5px; width:130px;
     }
+    .eng_word0 a{color:white!important;}
+    .eng_wordnull {
+        display: inline-block; background: red; color:white; padding:10px 15px; margin: 5px; width:130px;
+    }
+    .eng_wordnull a{color:white!important;}
+    .eng_word1 {
+        display: inline-block; background: #ccc; padding:10px 15px; margin: 5px; width:130px;
+    }    
     </style>
 </head>
 <body>
@@ -29,11 +37,12 @@
                ?>
             </div>
             <div class="col-md-9">
-                <h2>Database Manager</h2><hr>
+                <h2>Word Manager</h2><hr>
 <?php
 $db = connect();
 
-$stmt = $db->prepare("select * from englishwords");
+//$stmt = $db->prepare("select * from englishwords order by wordname");
+$stmt = $db->prepare("select wordname, wordid, hamnosys.verified from englishwords left join hamnosys on englishwords.wordid = hamnosys.parent order by englishwords.wordname");
 $stmt->execute(array());
 $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
@@ -44,7 +53,13 @@ $db = null;
 <p>Type in box below to filter the list and click word to edit its details:</p>
 <form action="" method="get">
 <input type="hidden" id="eng_json" value='<?php echo $eng_json; ?>'>                       
-<input type="text" autofocus id="search" name="search" placeholder="Type to filter the list below">
+<input style="display:inline-block;" type="text" autofocus id="search" name="search" placeholder="Type to filter the list below"> &nbsp;&nbsp;
+(<a href="addengword.php">Add new word</a>)
+<br>
+<span style="background:red;">&nbsp; &nbsp;</span> - background means HamNoSys Unverified or Missing &nbsp; &nbsp;
+<span style="background:#ccc;">&nbsp; &nbsp;</span> - background means HamNoSys Verified<br>
+<br>
+<span id="searchhint" style="color:red;">Loading...</span>
 </form>
 <div id="output">
 
@@ -62,6 +77,7 @@ $db = null;
 
     function filter()
     {
+        $("#searchhint").show();
         search_term = $("#search").val();
         $("#output").html("");
 
@@ -69,7 +85,7 @@ $db = null;
             // display everything
             for(ctr = 0; ctr < len; ctr++) {
                 currhtml = $("#output").html();
-                newhtml = '<span class="eng_word"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
+                newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
                 $("#output").html(currhtml + newhtml);
             }
         } else {
@@ -78,11 +94,12 @@ $db = null;
                 w = eng_words[ctr]['wordname'];
                 if(w.indexOf(search_term) != -1) {
                     currhtml = $("#output").html();
-                    newhtml = '<span class="eng_word"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + w + '</a></span>';
+                    newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + w + '</a></span>';
                     $("#output").html(currhtml + newhtml);
                 }
             }
         }
+        $("#searchhint").hide();
     }
 
     $(document).ready(function() {

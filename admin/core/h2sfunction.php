@@ -42,8 +42,9 @@ function hamconvert($ham, $gloss)
 	$ham = mb_str_split($ham);
 
 	try {
-		foreach ($ham as $key) {		
-			$sigml .= "\t\t<" . $hamarray[$key] . "/>\n";	
+		foreach ($ham as $key) {
+			if(isset($hamarray[$key]))		
+				$sigml .= "\t\t<" . $hamarray[$key] . "/>\n";	
 		}
 	} catch(Exception $e) {
 		echo "Error occured while processing : " . $gloss;

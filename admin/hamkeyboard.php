@@ -1,7 +1,23 @@
-<form action="#">
+<form action="ham-creator.php" method="get">
 		<div id="form">
-			<input class="ham" name="hns" id="hns" type="text" autofocus style="display:inline-block;"/>
+			<input class="ham" name="hns" id="hns" type="text" autofocus style="display:inline-block;" value="<?php if(isset($ham_notation)) echo $ham_notation; ?>"/>
 			<button type="button" id="erasechar" name="erasechar" style="display:inline-block;" class="btn btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Backspace</button>
+			
+			<?php
+			if(isset($ham_notation) || isset($parent)) {
+			?>
+			<br>
+			Verified : 
+			<select name="verified">
+				<option value="0" selected>No</option>
+				<option value="1">Yes</option>
+			</select> &nbsp; &nbsp; &nbsp; Author : 
+			<input style="display:inline-block;" type="text" name="author" value="<?php echo $author; ?>">
+			<input type="hidden" name="parent" value="<?php echo $parent; ?>">&nbsp; &nbsp; &nbsp;
+			<button type="submit" name="saveham" class="btn btn-primary">Save HamNoSys</button><br><br>
+			<?php
+			}
+			?>
 		</div>
 	</form>
 <!-- tabs -->

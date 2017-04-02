@@ -10,16 +10,19 @@
 	foreach ($result as $item) {
 		$gloss = $item['wordname'];
 		$ham = $item['notation'];
-		echo $gloss;
+		//echo $gloss."\n";
 
 		$filename = str_replace(" ", "", $gloss).".sigml";
+		$filename = str_replace("/", "-", $filename);
 
 		$res = hamconvert($ham, $gloss);
 
 		if($res != False) {
 			$fp = fopen($filename, "w");
-			fwrite($fp, $res);
-			fclose($fp);
+			if(isset($fp)) {
+				fwrite($fp, $res);
+				fclose($fp);
+			}
 		}
 
 	}

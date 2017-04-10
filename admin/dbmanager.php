@@ -69,9 +69,11 @@ $db = null;
     </div>   
 <?php require_once("footer.php"); ?>
     
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+
     <script>
+    window.onload = function() {
     var eng_words;
     var len;
 
@@ -111,6 +113,8 @@ $db = null;
     $("#search").keyup(function () {
         filter();
     });
+
+};
     </script>
 </body>
 </html>

@@ -1,31 +1,20 @@
 <sigml>
-
-	<hns_sign gloss="easy">
-		<hamnosys_nonmanual>
-			<hnm_mouthgesture tag="C04"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamfingerbendmod/>
-			<hambetween/>
-			<hamfinger2/>
-			<hamfingerstraightmod/>
-			<hamextfingeru/>
-			<hampalmul/>
-			<hambetween/>
-			<hampalml/>
-			<hamcheek/>
-			<hamlrbeside/>
-			<hammovel/>
-			<hamsmallmod/>
-			<hamcheek/>
-			<hamlrat/>
-			<hambetween/>
-			<hamlips/>
-			<hamlrat/>
-			<hamtouch/>
-			<hamrepeatfromstart/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="easy">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hampinchall/>
+		<hamfingerstraightmod/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamnostrils/>
+		<hamclose/>
+		<hamreplace/>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamchest/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

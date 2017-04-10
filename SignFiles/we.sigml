@@ -1,18 +1,17 @@
 <sigml>
-
-	<hns_sign gloss="we">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="wi:"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamextfingeru/>
-			<hampalmu/>
-			<hamlrat/>
-			<hamchest/>
-			<hamcircleu/>
-			<hamlargemod/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="we">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger23spread/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmur/>
+		<hamshoulders/>
+		<hamlrbeside/>
+		<hamclose/>
+		<hammovel/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

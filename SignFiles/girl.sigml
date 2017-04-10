@@ -1,23 +1,19 @@
 <sigml>
-
-	<hns_sign gloss="girl">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="g3:l"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamthumbacrossmod/>
-			<hamextfingeru/>
-			<hampalml/>
-			<hambetween/>
-			<hampalmdl/>
-			<hamearlobe/>
-			<hambetween/>
-			<hamcheek/>
-			<hammovedr/>
-			<hamchin/>
-			<hamlrat/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="girl">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamnose/>
+		<hamlrat/>
+		<hamseqbegin/>
+		<hamtouch/>
+		<hamfingerpad/>
+		<hamindexfinger/>
+		<hamseqend/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

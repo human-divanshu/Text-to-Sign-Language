@@ -1,54 +1,18 @@
 <sigml>
-
-	<hns_sign gloss="green">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="gri:n"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamparbegin/>
-			<hamflathand/>
-			<hamthumboutmod/>
-			<hambetween/>
-			<hamflathand/>
-			<hamplus/>
-			<hamflathand/>
-			<hamthumbacrossmod/>
-			<hamparend/>
-			<hamparbegin/>
-			<hamextfingerol/>
-			<hambetween/>
-			<hamextfingerl/>
-			<hampalmd/>
-			<hamplus/>
-			<hamextfingeror/>
-			<hambetween/>
-			<hamextfingerr/>
-			<hampalmd/>
-			<hamparend/>
-			<hamparbegin/>
-			<hamfingernail/>
-			<hamindexfinger/>
-			<hammiddlefinger/>
-			<hamringfinger/>
-			<hampinky/>
-			<hamplus/>
-			<hampinkyside/>
-			<hamparend/>
-			<hamtouch/>
-			<hamstomach/>
-			<hambetween/>
-			<hamchest/>
-			<hammoveil/>
-			<hamparbegin/>
-			<hammoveul/>
-			<hamsmallmod/>
-			<hamreplace/>
-			<hamextfingerl/>
-			<hampalml/>
-			<hambetween/>
-			<hampalmdl/>
-			<hamparend/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="green">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamchest/>
+		<hambetween/>
+		<hamstomach/>
+		<hamtouch/>
+		<hammoveu/>
+		<hamsmallmod/>
+		<hamrepeatfromstartseveral/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

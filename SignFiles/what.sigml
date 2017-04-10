@@ -1,20 +1,16 @@
 <sigml>
-
-	<hns_sign gloss="what">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="wt"/>
-			<hnm_eyebrows tag="RB"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamthumbacrossmod/>
-			<hamextfingeru/>
-			<hampalmd/>
-			<hamchest/>
-			<hamlrat/>
-			<hamswinging/>
-			<hamrepeatfromstart/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="what">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamchest/>
+		<hamlrat/>
+		<hamswinging/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

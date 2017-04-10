@@ -1,24 +1,18 @@
 <sigml>
-
-	<hns_sign gloss="yesterday">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="jest@de_Y"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamthumbacrossmod/>
-			<hamextfingeruo/>
-			<hambetween/>
-			<hamextfingeru/>
-			<hampalmd/>
-			<hamcheek/>
-			<hamlrbeside/>
-			<hamreplace/>
-			<hamfinger2/>
-			<hamthumbacrossmod/>
-			<hamextfingerui/>
-			<hampalmu/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="yesterday">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamshoulders/>
+		<hamlrat/>
+		<hammoveu/>
+		<hamlargemod/>
+		<hamreplace/>
+		<hamextfingeri/>
+		<hampalmd/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

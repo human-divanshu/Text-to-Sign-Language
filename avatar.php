@@ -39,7 +39,7 @@
 <div id="menu1">
 <br>
 <label for="inputText">Enter the text to animate</label><br>
-<input type="checkbox" name="eng2hindi" id="eng2hindi"> Convert to Hindi as you type<br>
+<!--<input type="checkbox" name="eng2hindi" id="eng2hindi"> Convert to Hindi as you type<br>-->
 <textarea id="inputText" style="width:100%; height:80px;" autofocus></textarea><br><br>
 <button type="button" id="btnRun" class="btn btn-primary">Parse and Generate Play Sequence</button>
 <button type="button" id="btnClear" class="btn btn-default">Clear</button>

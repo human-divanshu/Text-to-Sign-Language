@@ -11,7 +11,7 @@
             <div class="col-md-12">
 <!-- Put your code after this -->
 		<h2>Objective</h2>
-		<p>The main objective of this project is to develop Indian Sign Language generation system from natural language input Hindi text. The major objectives of this project are as follows: </p>
+		<p style="line-height:1.8em;">The main objective of this project is to develop Indian Sign Language generation system from natural language input Hindi text. The major objectives of this project are as follows: </p>
 		<ul>
 			<li>To build online multilingual multimedia Indian Sign Language dictionary. </li>
 			<li>To develop a parser to parse input language Hindi text for its ISL processing. </li>

@@ -30,16 +30,15 @@
 		<div style="width:40%; padding:15px; float:left; margin-left:14%;">
 
 <ul class="nav nav-tabs nav-justified" id="navi">
-  <li role="presentation"><a href="#" id="menu1-h" onclick="activateTab('menu1-h', 'menu1');">Sentences</a></li>
-  <li role="presentation"><a href="#" id="menu2-h" onclick="activateTab('menu2-h', 'menu2');">Words</a></li>
-  <li role="presentation"><a href="#" id="menu3-h" onclick="activateTab('menu3-h', 'menu3');">Alphabets</a></li>
-  <li role="presentation"><a href="#" id="menu4-h" onclick="activateTab('menu4-h', 'menu4');">Numbers</a></li>
+  <li role="presentation"><a href="#" id="menu1-h" onclick="activateTab('menu1-h', 'menu1');">English to Sign Language</a></li>
+  <li role="presentation"><a href="#" id="menu2-h" onclick="activateTab('menu2-h', 'menu2');">Hindi to Sign Language</a></li>
+  <!--<li role="presentation"><a href="#" id="menu3-h" onclick="activateTab('menu3-h', 'menu3');">Alphabets</a></li>
+  <li role="presentation"><a href="#" id="menu4-h" onclick="activateTab('menu4-h', 'menu4');">Numbers</a></li>-->
 </ul>
 
 <div id="menu1">
 <br>
-<label for="inputText">Enter the text to animate</label><br>
-<!--<input type="checkbox" name="eng2hindi" id="eng2hindi"> Convert to Hindi as you type<br>-->
+<label for="inputText">Enter the text to convert to sign language:</label><br>
 <textarea id="inputText" style="width:100%; height:80px;" autofocus></textarea><br><br>
 <button type="button" id="btnRun" class="btn btn-primary">Parse and Generate Play Sequence</button>
 <button type="button" id="btnClear" class="btn btn-default">Clear</button>
@@ -47,10 +46,10 @@
 
 <div id="menu2">
 <br>
-Words will be displayed here
+Hindi Virtual keyboard will be displayed here
 </div>
 
-<div id="menu3">
+<!--<div id="menu3">
 <br>
 Alphabets will be displayed here
 </div>
@@ -58,7 +57,7 @@ Alphabets will be displayed here
 <div id="menu4">
 <br>
 Number will be displayed here
-</div>
+</div>-->
 
 <div id="debuggercontainer" style="margin-top:10px; border-top:3px solid black;">
 	<br><strong>Debugger</strong></br>

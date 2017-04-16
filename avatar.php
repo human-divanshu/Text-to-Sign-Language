@@ -20,6 +20,31 @@
             // global variable to tell if avatar is ready or not
             var tuavatarLoaded = false;
 		</script>
+<script src="https://www.google.com/jsapi" type="text/javascript"></script>        
+<script type="text/javascript">
+  google.load("elements", "1", {
+      packages: "transliteration"
+    });
+    function onLoad(){
+      var options = {
+        sourceLanguage: google.elements.transliteration.LanguageCode.ENGLISH,
+        destinationLanguage: [google.elements.transliteration.LanguageCode.HINDI],
+        shortcutKey: 'ctrl+g',
+        transliterationEnabled: true
+    };
+    var control = new google.elements.transliteration.TransliterationControl(options);
+    control.makeTransliteratable(['transliterateTextarea']);
+    
+  }
+  google.setOnLoadCallback(onLoad);
+  function myread(){
+       var text=document.conversion.transliterateTextarea;
+        var tcontent=text.value;
+      window.alert(tcontent);
+      return tcontent;
+  }
+  
+</script>         
     </head>
     <body onload="CWASA.init(initCfg);" >
     <?php
@@ -46,7 +71,8 @@
 
 <div id="menu2">
 <br>
-Hindi Virtual keyboard will be displayed here
+<label for="inputText">Type text to convert to hindi:</label><br>
+<textarea id="transliterateTextarea" name="transliterateTextarea" style="width:100%; height:80px;"></textarea>
 </div>
 
 <!--<div id="menu3">

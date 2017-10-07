@@ -1,0 +1,26 @@
+<sigml>
+<hns_sign gloss="play">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamalternatingmotion/>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hamindexfinger/>
+		<hamdoublehooked/>
+		<hammiddlefinger/>
+		<hamdoublehooked/>
+		<hamringfinger/>
+		<hamdoublehooked/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamshoulders/>
+		<hamparbegin/>
+		<hammoveo/>
+		<hamtwisting/>
+		<hamlargemod/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

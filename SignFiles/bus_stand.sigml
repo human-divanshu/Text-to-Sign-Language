@@ -1,0 +1,27 @@
+<sigml>
+<hns_sign gloss="bus stand">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamthumbacrossmod/>
+		<hampinky/>
+		<hamdoublehooked/>
+		<hamextfingeror/>
+		<hampalmu/>
+		<hamchest/>
+		<hamlrbeside/>
+		<hamseqbegin/>
+		<hammoveor/>
+		<hammoveil/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+		<hamplus/>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hamfingerbendmod/>
+		<hamextfingero/>
+		<hampalmd/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

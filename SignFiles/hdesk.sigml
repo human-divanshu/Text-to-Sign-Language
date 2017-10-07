@@ -1,0 +1,29 @@
+<sigml>
+<hns_sign gloss="hdesk">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamreplace/>
+		<hamparbegin/>
+		<hampinch12/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingerd/>
+		<hampalmdr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamchest/>
+		<hamclose/>
+		<hamplus/>
+		<hamlrat/>
+		<hamstomach/>
+		<hamtouch/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

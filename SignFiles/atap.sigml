@@ -1,0 +1,12 @@
+<sigml>
+<hns_sign gloss="atap">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamchest/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

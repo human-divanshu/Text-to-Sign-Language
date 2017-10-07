@@ -1,0 +1,49 @@
+<sigml>
+<hns_sign gloss="post office">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamfingerstraightmod/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingerul/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingero/>
+		<hambetween/>
+		<hamextfingerr/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamshouldertop/>
+		<hamlrat/>
+		<hamplus/>
+		<hamchest/>
+		<hamparend/>
+		<hammovedl/>
+		<hamparbegin/>
+		<hamhandback/>
+		<hamplus/>
+		<hampalm/>
+		<hamparend/>
+		<hamtouch/>
+		<hamseqbegin/>
+		<hammoveur/>
+		<hamsmallmod/>
+		<hammovedl/>
+		<hamsmallmod/>
+		<hamseqend/>
+		<hamplus/>
+		<hampinchopen/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamshoulders/>
+		<hamcirclei/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

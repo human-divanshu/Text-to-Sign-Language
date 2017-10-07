@@ -87,7 +87,7 @@ $db = null;
             // display everything
             for(ctr = 0; ctr < len; ctr++) {
                 currhtml = $("#output").html();
-                newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
+                newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
                 $("#output").html(currhtml + newhtml);
             }
         } else {
@@ -96,7 +96,7 @@ $db = null;
                 w = eng_words[ctr]['wordname'];
                 if(w.indexOf(search_term) != -1) {
                     currhtml = $("#output").html();
-                    newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a target="_blank" href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + w + '</a></span>';
+                    newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + w + '</a></span>';
                     $("#output").html(currhtml + newhtml);
                 }
             }

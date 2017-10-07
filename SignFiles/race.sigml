@@ -1,0 +1,35 @@
+<sigml>
+<hns_sign gloss="race">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamfist/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hammoveil/>
+		<hamsmallmod/>
+		<hamplus/>
+		<hamsymmlr/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
+		<hamflathand/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamparbegin/>
+		<hamthumbside/>
+		<hamplus/>
+		<hamthumbside/>
+		<hamparend/>
+		<hamtouch/>
+		<hamchest/>
+		<hamseqbegin/>
+		<hammoveo/>
+		<hammovei/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+		<hamalternatingmotion/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

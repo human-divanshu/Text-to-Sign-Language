@@ -5,12 +5,19 @@
 	<hamnosys_manual>
 		<hamfinger2345/>
 		<hamthumboutmod/>
-		<hamfingerbendmod/>
-		<hamextfingerul/>
-		<hampalmd/>
-		<hamheadtop/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamshouldertop/>
+		<hamlrbeside/>
+		<hambetween/>
+		<hamear/>
 		<hamlrat/>
-		<hamnodding/>
+		<hamclose/>
+		<hamseqbegin/>
+		<hammoveur/>
+		<hammovedl/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

@@ -1,0 +1,16 @@
+<sigml>
+<hns_sign gloss="wear">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfist/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamshoulders/>
+		<hamclose/>
+		<hamcirclei/>
+		<hamlargemod/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

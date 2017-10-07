@@ -1,0 +1,40 @@
+<sigml>
+<hns_sign gloss="dancing">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hampinchopen/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamchest/>
+		<hamlrat/>
+		<hamseqbegin/>
+		<hammoveur/>
+		<hammovedl/>
+		<hamseqend/>
+		<hamrepeatfromstartseveral/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparbegin/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingerr/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hammiddlefinger/>
+		<hamfingernail/>
+		<hamplus/>
+		<hampalm/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hammoveo/>
+		<hamarcd/>
+		<hamsmallmod/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

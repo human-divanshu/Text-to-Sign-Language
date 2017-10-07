@@ -4,6 +4,7 @@ hindipMarks = []; // include the hindi puntuation marks in UTF format
 
 // array to store finally what is to played
 wordArray = new Array();
+
 function FinalText(word, fileName)
 {
 	this.word = word;
@@ -58,6 +59,11 @@ function isSpace(letter)
 	Function to take paragraph input by the user and tokenize it.
 	Returns the words in an array
 */
+function tokenizeEnglishNew(inText)
+{
+	return inText.match(/\b(\w+)\b/g);
+}
+
 function tokenizeEnglish(inText)
 {
 	flag = false; // flag will be set true if the inText text will end with pMarks
@@ -140,13 +146,15 @@ $("#btnRun").click(function () {
 	
 	// read the language that has been set
 	lang = "English"; // using english for default
-	tokens = [];
+	var tokens;
 	
 	if(lang=="English") {
 		
 		// tokenize the english paragraph
-		tokenString = tokenizeEnglish(inputText);
-		tokens = tokenString.split(',');
+		// tokenString = tokenizeEnglish(inputText);
+		// tokens = tokenString.split(',');
+		tokens = tokenizeEnglishNew(inputText);
+		console.log(tokens);
 		console.log("Got tokens"); 
 		
 	} else if(lang == "Hindi") {

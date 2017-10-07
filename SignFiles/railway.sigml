@@ -1,0 +1,25 @@
+<sigml>
+<hns_sign gloss="railway">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamalternatingmotion/>
+		<hamflathand/>
+		<hamextfingero/>
+		<hambetween/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamparbegin/>
+		<hammiddlefinger/>
+		<hamfingertip/>
+		<hamplus/>
+		<hamthumbball/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hamcirclel/>
+		<hamrepeatfromstartseveral/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

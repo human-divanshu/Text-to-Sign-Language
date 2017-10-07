@@ -3,14 +3,11 @@
 	<hamnosys_nonmanual>
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
-		<hamsymmlr/>
-		<hamfist/>
-		<hamthumboutmod/>
-		<hamextfingero/>
+		<hampinchopen/>
+		<hamextfingeru/>
 		<hampalml/>
 		<hamchest/>
-		<hamclose/>
-		<hammovedo/>
+		<hamlrat/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

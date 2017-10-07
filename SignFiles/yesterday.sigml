@@ -4,15 +4,23 @@
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
 		<hamfinger2/>
-		<hamextfingeru/>
-		<hampalmu/>
-		<hamshoulders/>
-		<hamlrat/>
-		<hammoveu/>
-		<hamlargemod/>
-		<hamreplace/>
+		<hamthumbacrossmod/>
 		<hamextfingeri/>
 		<hampalmd/>
+		<hamshouldertop/>
+		<hambetween/>
+		<hamhead/>
+		<hamlrat/>
+		<hamreplace/>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamfingerbendmod/>
+		<hamextfingeri/>
+		<hampalmd/>
+		<hamshouldertop/>
+		<hambetween/>
+		<hamhead/>
+		<hamlrat/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

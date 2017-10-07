@@ -1,0 +1,21 @@
+<sigml>
+<hns_sign gloss="stethoscope">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hampinchall/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamlrat/>
+		<hamchest/>
+		<hamtouch/>
+		<hamparbegin/>
+		<hammover/>
+		<hamarcr/>
+		<hamchest/>
+		<hamlrat/>
+		<hamtouch/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

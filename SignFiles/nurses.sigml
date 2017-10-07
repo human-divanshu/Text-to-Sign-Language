@@ -1,0 +1,41 @@
+<sigml>
+<hns_sign gloss="nurses">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamcee12/>
+		<hamextfingerl/>
+		<hampalmd/>
+		<hamplus/>
+		<hamflathand/>
+		<hamfingerbendmod/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamthumbball/>
+		<hamhandback/>
+		<hamplus/>
+		<hamindexfinger/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamtouch/>
+		<hamnomotion/>
+		<hamplus/>
+		<hamsymmlr/>
+		<hamcee12/>
+		<hamextfingerul/>
+		<hampalmd/>
+		<hamear/>
+		<hamtouch/>
+		<hamseqbegin/>
+		<hammover/>
+		<hamsmallmod/>
+		<hammovel/>
+		<hamsmallmod/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

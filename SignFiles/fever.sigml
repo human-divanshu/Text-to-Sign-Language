@@ -1,0 +1,13 @@
+<sigml>
+<hns_sign gloss="fever">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamextfingeru/>
+		<hampalmr/>
+		<hamcheek/>
+		<hamclose/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

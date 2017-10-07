@@ -1,0 +1,30 @@
+<sigml>
+<hns_sign gloss="स्कूल बस">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamflathand/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamtouch/>
+		<hamshoulders/>
+		<hamclose/>
+		<hamnomotion/>
+		<hamplus/>
+		<hamsymmlr/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamseqbegin/>
+		<hammoveo/>
+		<hammovei/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+		<hamalternatingmotion/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

@@ -73,7 +73,24 @@ if(!isset($_GET['wordid'])) {
     <td> <input type="text" name="eng_wordname" value="<?php echo $result1['wordname']; ?>"> </td>
 </tr>
 <tr>
-    <td>HamNoSys (<a href="ham-creator.php?wordid=<?php echo $wordid; ?>">Edit</a>)</td>
+    <td>HamNoSys 
+<?php
+// if not verified then show the 
+// edit button
+if($result2['verified']!=1) {
+?>
+
+    (<a href="ham-creator.php?wordid=<?php echo $wordid; ?>&gloss=<?php echo $result1['wordname']; ?>">Edit</a>)
+
+<?php
+} // if block ends for edit button showing for not verified records
+else {
+    echo "(Locked)";
+}
+?>
+        <br>
+        <a href="../avatar.php?mode=test&gloss=<?php echo $result1['wordname']; ?>" target="_blank" class="btn btn-success btn-sm">Test Sign</a>
+    </td>
     <td><input type="text" style="font-size:20px;" class="customfont" name="hamnosys" value="<?php echo $result2['notation']; ?>" readonly> </td>
 </tr>   
 <tr>
@@ -92,6 +109,17 @@ if(!isset($_GET['wordid'])) {
         ?>
     </td>
 </tr> 
+<?php
+// show this only to admin
+if("admin"==getUsername($_SESSION['userId'])) {
+?>
+<tr>
+    <td>Delete word<br>(NOTE : Can not be undone. Will also delete associated hamNoSys, hindi words, synonyms and antonyms)</td>
+    <td><a href="delword.php?wordid=<?php echo $wordid; ?>" class="btn btn-danger btn-sm">Delete word</a></td>
+</tr>
+<?php
+} // showing to admin ends here
+?>
 </table>          
             </div>
         </div>

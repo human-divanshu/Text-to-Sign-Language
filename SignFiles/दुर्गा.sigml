@@ -1,0 +1,30 @@
+<sigml>
+<hns_sign gloss="दुर्गा">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamparbegin/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamplus/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingeru/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamshouldertop/>
+		<hamlrat/>
+		<hamplus/>
+		<hamchest/>
+		<hamparend/>
+		<hammovedl/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

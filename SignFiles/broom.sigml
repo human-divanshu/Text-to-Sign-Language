@@ -16,9 +16,15 @@
 		<hamplus/>
 		<hampalmdr/>
 		<hamparend/>
+		<hamparbegin/>
+		<hamshouldertop/>
+		<hamclose/>
+		<hamplus/>
+		<hamchest/>
+		<hamclose/>
+		<hamparend/>
 		<hammovedl/>
 		<hamarcd/>
-		<hamclose/>
 		<hamrepeatfromstart/>
 	</hamnosys_manual>
 </hns_sign>

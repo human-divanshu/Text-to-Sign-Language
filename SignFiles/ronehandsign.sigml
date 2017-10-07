@@ -1,0 +1,13 @@
+<sigml>
+<hns_sign gloss="ronehandsign">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfist/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamshouldertop/>
+		<hamclose/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

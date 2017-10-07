@@ -1,0 +1,43 @@
+<sigml>
+<hns_sign gloss="hcook">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamplus/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingero/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamchest/>
+		<hamclose/>
+		<hamplus/>
+		<hamstomach/>
+		<hamclose/>
+		<hamparend/>
+		<hamcircled/>
+		<hamlargemod/>
+		<hamcircled/>
+		<hamlargemod/>
+		<hamreplace/>
+		<hamfinger2/>
+		<hamthumboutmod/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hameyes/>
+		<hamlrbeside/>
+		<hamclose/>
+		<hammoved/>
+		<hamlargemod/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

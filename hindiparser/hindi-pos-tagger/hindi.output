@@ -1,0 +1,40 @@
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+संवैधानिक	संवैधानिक	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रथम	प्रथम	QO		adj	any	any		any
+राजभाषा	राजभाषा	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+अधिक	अधिक	QF		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+और	और	CC		adv				
+समझी	समझ	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चीनी	चीनी	NN		adj	f	any		any
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+यह	यह	DEM	0	pn	any	sg	3	d
+विश्व	विश्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सबसे	सबसे	INTF		adj	any	any		any
+अधिक	अधिक	QF		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

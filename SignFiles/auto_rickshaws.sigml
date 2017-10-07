@@ -1,0 +1,20 @@
+<sigml>
+<hns_sign gloss="auto rickshaws">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalmdl/>
+		<hamstomach/>
+		<hamlrbeside/>
+		<hamarmextended/>
+		<hammoved/>
+		<hamsmallmod/>
+		<hammoveo/>
+		<hamshoulders/>
+		<hamlrbeside/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

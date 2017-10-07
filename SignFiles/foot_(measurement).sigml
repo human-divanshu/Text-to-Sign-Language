@@ -1,0 +1,43 @@
+<sigml>
+<hns_sign gloss="foot (measurement)">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingerr/>
+		<hampalmd/>
+		<hamparend/>
+		<hamneck/>
+		<hamlrat/>
+		<hamparbegin/>
+		<hammoved/>
+		<hamreplace/>
+		<hamextfingero/>
+		<hampalml/>
+		<hamparend/>
+		<hamplus/>
+		<hamsymmlr/>
+		<hampinchopen/>
+		<hamextfingero/>
+		<hampalml/>
+		<hamparbegin/>
+		<hamindexfinger/>
+		<hamfingertip/>
+		<hamplus/>
+		<hamindexfinger/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamtouch/>
+		<hamchest/>
+		<hammover/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

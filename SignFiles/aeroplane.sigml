@@ -3,20 +3,19 @@
 	<hamnosys_nonmanual>
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
-		<hamfinger2345/>
+		<hamfinger2/>
 		<hamthumboutmod/>
-		<hamindexfinger/>
-		<hamfingerhookmod/>
-		<hamringfinger/>
-		<hamfingerhookmod/>
 		<hampinky/>
-		<hamfingerhookmod/>
-		<hamextfingero/>
+		<hamextfingeru/>
+		<hambetween/>
+		<hamextfingerol/>
 		<hampalmd/>
-		<hamstomach/>
-		<hammoveu/>
 		<hamneck/>
+		<hamlrat/>
+		<hamclose/>
+		<hamnomotion/>
 		<hammoveul/>
+		<hamlargemod/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

@@ -1,0 +1,35 @@
+<sigml>
+<hns_sign gloss="dentist">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingerul/>
+		<hampalmdl/>
+		<hamteeth/>
+		<hamtouch/>
+		<hamreplace/>
+		<hamparbegin/>
+		<hamcee12/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingerl/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamlrat/>
+		<hamchest/>
+		<hamclose/>
+		<hamplus/>
+		<hamchest/>
+		<hamlrat/>
+		<hamclose/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

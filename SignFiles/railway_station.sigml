@@ -1,0 +1,40 @@
+<sigml>
+<hns_sign gloss="railway station">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingero/>
+		<hambetween/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingero/>
+		<hambetween/>
+		<hamextfingeru/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hammiddlefinger/>
+		<hamfingertip/>
+		<hamplus/>
+		<hamthumbball/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hamcirclel/>
+		<hamrepeatfromstartseveral/>
+		<hamplus/>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hamfingerbendmod/>
+		<hamextfingero/>
+		<hampalmd/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

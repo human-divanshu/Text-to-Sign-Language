@@ -1,0 +1,26 @@
+<sigml>
+<hns_sign gloss="clock">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hampinchall/>
+		<hamextfingerl/>
+		<hampalmd/>
+		<hamplus/>
+		<hamfist/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamthumbball/>
+		<hamhandback/>
+		<hamplus/>
+		<hampinky/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamtouch/>
+		<hamchest/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

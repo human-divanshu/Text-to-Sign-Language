@@ -10,3 +10,21 @@ nav a{font-weight:bold;}
 .active a{background-color:#337ab7!important;color:white!important;}
 .icon-bar {background-color:white!important;}
 /* nav css ends here*/
+/*css for word displayed under avatar*/
+#currentWord{
+  width: 63%;
+  margin: 0 auto;
+  margin-top: 0px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 22px;
+  padding: 5px;
+  font-weight: bold;
+}
+#debugger {
+    max-height: 200px;
+    overflow-y: scroll;
+    border: 1px solid black;
+    padding: 16px;
+    margin-top: 5px;	
+}

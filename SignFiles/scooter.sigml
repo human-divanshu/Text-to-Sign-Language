@@ -1,0 +1,17 @@
+<sigml>
+<hns_sign gloss="scooter">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamchest/>
+		<hamlrat/>
+		<hamclose/>
+		<hamnodding/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

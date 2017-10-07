@@ -1,0 +1,22 @@
+<sigml>
+<hns_sign gloss="students">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamlips/>
+		<hamtouch/>
+		<hamnomotion/>
+		<hamplus/>
+		<hamflathand/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamchest/>
+		<hamlrat/>
+		<hammover/>
+		<hamsmallmod/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

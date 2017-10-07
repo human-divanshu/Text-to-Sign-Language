@@ -1,0 +1,45 @@
+<sigml>
+<hns_sign gloss="speaking">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamlips/>
+		<hamlrat/>
+		<hamclose/>
+		<hamseqbegin/>
+		<hammovei/>
+		<hammoveo/>
+		<hamseqend/>
+		<hamrepeatfromstartseveral/>
+		<hamalternatingmotion/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparbegin/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingerr/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hammiddlefinger/>
+		<hamfingernail/>
+		<hamplus/>
+		<hampalm/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hammoveo/>
+		<hamarcd/>
+		<hamsmallmod/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

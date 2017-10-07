@@ -1,0 +1,39 @@
+<sigml>
+<hns_sign gloss="dancer">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamthumb/>
+		<hamfingernail/>
+		<hamindexfinger/>
+		<hamplus/>
+		<hamflathand/>
+		<hamthumb/>
+		<hamfingernail/>
+		<hamindexfinger/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingerul/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingerur/>
+		<hambetween/>
+		<hamextfingerr/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamneck/>
+		<hamlrat/>
+		<hamclose/>
+		<hamplus/>
+		<hamlrat/>
+		<hamstomach/>
+		<hamclose/>
+		<hamparend/>
+		<hamtwisting/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

@@ -1,0 +1,15 @@
+<sigml>
+<hns_sign gloss="fan">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamhead/>
+		<hamlrat/>
+		<hamcirclei/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

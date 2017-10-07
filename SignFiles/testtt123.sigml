@@ -1,0 +1,9 @@
+<sigml>
+<hns_sign gloss="testtt123">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfingerside/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

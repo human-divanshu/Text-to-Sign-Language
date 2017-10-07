@@ -5,27 +5,33 @@
 	<hamnosys_manual>
 		<hamparbegin/>
 		<hamfinger2/>
+		<hamthumbacrossmod/>
 		<hamplus/>
 		<hamfist/>
 		<hamparend/>
 		<hamparbegin/>
 		<hamextfingero/>
-		<hamplus/>
-		<hamextfingerr/>
-		<hamparend/>
-		<hamparbegin/>
 		<hampalml/>
 		<hamplus/>
-		<hampalmr/>
+		<hamextfingeror/>
+		<hampalmdr/>
 		<hamparend/>
 		<hamparbegin/>
 		<hamthumbside/>
 		<hamplus/>
 		<hampinkyside/>
 		<hamparend/>
+		<hamclose/>
+		<hamseqbegin/>
 		<hammoved/>
-		<hamsmallmod/>
+		<hamparbegin/>
+		<hamthumbside/>
+		<hamplus/>
+		<hampinkyside/>
+		<hamparend/>
 		<hamtouch/>
+		<hammoveu/>
+		<hamseqend/>
 		<hamrepeatfromstartseveral/>
 	</hamnosys_manual>
 </hns_sign>

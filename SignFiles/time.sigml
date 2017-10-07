@@ -6,26 +6,38 @@
 		<hamparbegin/>
 		<hamfinger2/>
 		<hamthumbacrossmod/>
+		<hamfingerbendmod/>
 		<hamplus/>
-		<hamflathand/>
-		<hamthumboutmod/>
+		<hamfist/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamextfingerdl/>
-		<hampalmdl/>
+		<hamextfingerl/>
+		<hampalmd/>
 		<hamplus/>
-		<hamextfingeror/>
+		<hamextfingero/>
 		<hampalmd/>
 		<hamparend/>
 		<hamparbegin/>
+		<hamshoulders/>
+		<hamplus/>
+		<hamchest/>
+		<hamparend/>
+		<hammoved/>
+		<hamparbegin/>
+		<hamwristback/>
 		<hamhandback/>
 		<hamplus/>
 		<hamindexfinger/>
-		<hamfingernail/>
+		<hamfingertip/>
 		<hamparend/>
 		<hamtouch/>
-		<hamchest/>
-		<hamclose/>
+		<hamseqbegin/>
+		<hammoveu/>
+		<hamsmallmod/>
+		<hammoved/>
+		<hamsmallmod/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

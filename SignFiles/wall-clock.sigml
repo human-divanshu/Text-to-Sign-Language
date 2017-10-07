@@ -5,21 +5,22 @@
 	<hamnosys_manual>
 		<hamparbegin/>
 		<hampinchall/>
+		<hamfingerstraightmod/>
 		<hamplus/>
 		<hamfist/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamextfingeru/>
+		<hamextfingerl/>
 		<hamplus/>
 		<hamextfingero/>
 		<hamparend/>
 		<hamparbegin/>
-		<hampalml/>
+		<hampalmd/>
 		<hamplus/>
 		<hampalmd/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamhandback/>
+		<hamwristback/>
 		<hamplus/>
 		<hamthumb/>
 		<hamindexfinger/>
@@ -28,7 +29,16 @@
 		<hamtouch/>
 		<hamshoulders/>
 		<hamclose/>
-		<hamcirclei/>
+		<hamnomotion/>
+		<hamreplace/>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamparbegin/>
+		<hammoveur/>
+		<hamcircleo/>
+		<hamparend/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

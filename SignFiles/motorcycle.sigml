@@ -1,0 +1,32 @@
+<sigml>
+<hns_sign gloss="motorcycle">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamplus/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamchest/>
+		<hamlrat/>
+		<hamclose/>
+		<hamplus/>
+		<hamlrat/>
+		<hamchest/>
+		<hamclose/>
+		<hamparend/>
+		<hamnodding/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

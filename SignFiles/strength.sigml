@@ -1,0 +1,18 @@
+<sigml>
+<hns_sign gloss="strength">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingeri/>
+		<hampalmd/>
+		<hamshouldertop/>
+		<hamparbegin/>
+		<hammoveui/>
+		<hammoveui/>
+		<hammovei/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

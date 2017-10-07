@@ -1,0 +1,18 @@
+<sigml>
+<hns_sign gloss="pointing">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamshoulders/>
+		<hamplus/>
+		<hamfinger2/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamshoulders/>
+		<hammoveo/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

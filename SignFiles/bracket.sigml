@@ -1,0 +1,13 @@
+<sigml>
+<hns_sign gloss="bracket">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamcee12/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamshouldertop/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

@@ -1,0 +1,41 @@
+<sigml>
+<hns_sign gloss="curly bracket">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamcee12/>
+		<hamparbegin/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingeru/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamshouldertop/>
+		<hamplus/>
+		<hamshouldertop/>
+		<hamparend/>
+		<hamreplace/>
+		<hamfinger2/>
+		<hamfingerstraightmod/>
+		<hamindexfinger/>
+		<hamfingermidjoint/>
+		<hamthumb/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamseqbegin/>
+		<hammover/>
+		<hamsmallmod/>
+		<hammoved/>
+		<hammover/>
+		<hamsmallmod/>
+		<hammovel/>
+		<hamsmallmod/>
+		<hammoved/>
+		<hammovel/>
+		<hamsmallmod/>
+		<hamseqend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

@@ -1,0 +1,30 @@
+<sigml>
+<hns_sign gloss="hurt">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamextfingerol/>
+		<hampalmdl/>
+		<hamplus/>
+		<hamflathand/>
+		<hamextfingeror/>
+		<hampalmd/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamshouldertop/>
+		<hamplus/>
+		<hamchest/>
+		<hamparend/>
+		<hammovedl/>
+		<hamlargemod/>
+		<hamparbegin/>
+		<hamhandback/>
+		<hamplus/>
+		<hampinkyside/>
+		<hamparend/>
+		<hamtouch/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

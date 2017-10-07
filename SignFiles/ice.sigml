@@ -1,0 +1,37 @@
+<sigml>
+<hns_sign gloss="ice">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamthumboutmod/>
+		<hamfingerbendmod/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamteeth/>
+		<hamclose/>
+		<hamplus/>
+		<hamcee12/>
+		<hammiddlefinger/>
+		<hamfingerbendmod/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamlips/>
+		<hamclose/>
+		<hamplus/>
+		<hamsymmlr/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamshoulders/>
+		<hamseqbegin/>
+		<hammovel/>
+		<hamsmallmod/>
+		<hammover/>
+		<hamsmallmod/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

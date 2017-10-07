@@ -21,7 +21,8 @@
 		<hampalmr/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamthumbside/>
+		<hamindexfinger/>
+		<hamfingerside/>
 		<hamplus/>
 		<hampinkyside/>
 		<hamparend/>
@@ -29,6 +30,7 @@
 		<hamchest/>
 		<hamclose/>
 		<hammoveu/>
+		<hamlargemod/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

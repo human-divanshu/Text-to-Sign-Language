@@ -1,0 +1,14 @@
+<sigml>
+<hns_sign gloss="passed">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamshouldertop/>
+		<hamlrat/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

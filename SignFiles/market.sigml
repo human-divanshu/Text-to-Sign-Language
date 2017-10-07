@@ -1,0 +1,21 @@
+<sigml>
+<hns_sign gloss="market">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmpar/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
+		<hamfinger2345/>
+		<hamfingerbendmod/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hamseqbegin/>
+		<hammoveo/>
+		<hammovei/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+		<hamalternatingmotion/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

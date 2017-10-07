@@ -4,13 +4,14 @@
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
 		<hamfinger2/>
-		<hamextfingeruo/>
-		<hampalmd/>
+		<hamthumbacrossmod/>
+		<hamextfingerur/>
+		<hampalmul/>
 		<hamhead/>
 		<hamlrat/>
-		<hammoveo/>
-		<hamsmallmod/>
+		<hamnomotion/>
 		<hamcircleo/>
+		<hamrepeatfromstartseveral/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

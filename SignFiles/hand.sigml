@@ -1,0 +1,26 @@
+<sigml>
+<hns_sign gloss="hand">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamextfingerol/>
+		<hampalmdl/>
+		<hamplus/>
+		<hamflathand/>
+		<hamextfingero/>
+		<hampalmur/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamthumbball/>
+		<hamplus/>
+		<hamindexfinger/>
+		<hammiddlefinger/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamtouch/>
+		<hamchest/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

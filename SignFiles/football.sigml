@@ -1,0 +1,34 @@
+<sigml>
+<hns_sign gloss="football">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamparbegin/>
+		<hamflathand/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamextfingerd/>
+		<hampalmd/>
+		<hamplus/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamparend/>
+		<hamparbegin/>
+		<hamthumbball/>
+		<hamplus/>
+		<hamringfinger/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hamnomotion/>
+		<hamparbegin/>
+		<hammoveo/>
+		<hamlargemod/>
+		<hamarcd/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

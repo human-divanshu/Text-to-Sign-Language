@@ -1,0 +1,17 @@
+<sigml>
+<hns_sign gloss="rrwater">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfingerhookmod/>
+		<hamfingerstraightmod/>
+		<hamfist/>
+		<hamthumboutmod/>
+		<hamextfingeru/>
+		<hampalmdl/>
+		<hamtongue/>
+		<hamlrbeside/>
+		<hamclose/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

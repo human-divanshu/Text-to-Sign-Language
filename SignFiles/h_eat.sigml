@@ -1,0 +1,16 @@
+<sigml>
+<hns_sign gloss="h_eat">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamteeth/>
+		<hamclose/>
+		<hamnomotion/>
+		<hammoved/>
+		<hamchest/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

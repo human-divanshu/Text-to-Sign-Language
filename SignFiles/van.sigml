@@ -4,6 +4,9 @@
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
 		<hamsymmpar/>
+		<hamlargemod/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
 		<hamparbegin/>
 		<hamfinger23spread/>
 		<hamplus/>
@@ -26,11 +29,19 @@
 		<hammiddlefinger/>
 		<hamfingernail/>
 		<hamparend/>
-		<hamclose/>
+		<hamtouch/>
 		<hamchest/>
 		<hamclose/>
+		<hamnomotion/>
+		<hamreplace/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamseqbegin/>
+		<hammoveu/>
 		<hammoved/>
-		<hamarcl/>
+		<hamseqend/>
 		<hamrepeatfromstart/>
 	</hamnosys_manual>
 </hns_sign>

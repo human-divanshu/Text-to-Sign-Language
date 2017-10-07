@@ -5,14 +5,15 @@
 	<hamnosys_manual>
 		<hamsymmlr/>
 		<hamflathand/>
-		<hamthumboutmod/>
-		<hamextfingerul/>
+		<hamextfingerl/>
 		<hampalml/>
 		<hamclose/>
-		<hamshoulders/>
-		<hamtouch/>
-		<hammoved/>
 		<hambelowstomach/>
+		<hamtouch/>
+		<hamreplace/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamchest/>
 		<hamtouch/>
 	</hamnosys_manual>
 </hns_sign>

@@ -1,0 +1,15 @@
+<sigml>
+<hns_sign gloss="seat">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfist/>
+		<hamthumbacrossmod/>
+		<hamextfingero/>
+		<hampalml/>
+		<hamchest/>
+		<hammoved/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

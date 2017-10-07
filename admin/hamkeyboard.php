@@ -1,9 +1,25 @@
 <form action="ham-creator.php" method="get">
 		<div id="form">
-			<input class="ham" name="hns" id="hns" type="text" autofocus style="display:inline-block;" value="<?php if(isset($ham_notation)) echo $ham_notation; ?>"/>
+
+<?php
+/*
+	Show this only when gloss word is set in get parameter which means that
+	ham editor has been opened from editword.php and not from left menu 
+	directly.
+*/
+	if(isset($_GET['gloss'])) {
+?>
+			Gloss (for sigml file) : <input style="display:inline-block;" type="text" name="glossword" id="glossword" value="<?php echo $_GET['gloss'] ?>" readonly><br>
+<?php
+}	// end of if block for showing gloss word
+?>
+			<input autocomplete="off" class="ham" name="hns" id="hns" type="text" autofocus style="display:inline-block;" value="<?php if(isset($ham_notation)) echo $ham_notation; ?>"/>
 			<button type="button" id="erasechar" name="erasechar" style="display:inline-block;" class="btn btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Backspace</button>
 			
 			<?php
+			/*
+				
+			*/
 			if(isset($ham_notation) || isset($parent)) {
 			?>
 			<br>
@@ -12,9 +28,9 @@
 				<option value="0" selected>No</option>
 				<option value="1">Yes</option>
 			</select> &nbsp; &nbsp; &nbsp; Author : 
-			<input style="display:inline-block;" type="text" name="author" value="<?php echo $author; ?>">
+			<input style="display:inline-block;" placeholder="Type your name" type="text" name="author" value="<?php echo $author; ?>" readonly>
 			<input type="hidden" name="parent" value="<?php echo $parent; ?>">&nbsp; &nbsp; &nbsp;
-			<button type="submit" name="saveham" class="btn btn-primary">Save HamNoSys</button><br><br>
+			<button type="submit" name="saveham" class="btn btn-primary">Save HamNoSys and Generate SigML</button><br><br>
 			<?php
 			}
 			?>

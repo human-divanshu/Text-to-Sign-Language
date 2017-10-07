@@ -1,0 +1,18 @@
+<sigml>
+<hns_sign gloss="pencils">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamfingerstraightmod/>
+		<hamindexfinger/>
+		<hamfingermidjoint/>
+		<hamthumb/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamshoulders/>
+		<hammovedr/>
+		<hamzigzag/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

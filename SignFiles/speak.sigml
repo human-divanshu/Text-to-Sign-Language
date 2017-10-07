@@ -1,0 +1,25 @@
+<sigml>
+<hns_sign gloss="speak">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfingerstraightmod/>
+		<hamalternatingmotion/>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamlips/>
+		<hamlrat/>
+		<hamclose/>
+		<hamseqbegin/>
+		<hammoveo/>
+		<hamsmallmod/>
+		<hammovei/>
+		<hamsmallmod/>
+		<hamseqend/>
+		<hamrepeatfromstartseveral/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

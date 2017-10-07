@@ -1,0 +1,28 @@
+<sigml>
+<hns_sign gloss="sentence">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamcee12/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamparbegin/>
+		<hamindexfinger/>
+		<hamfingertip/>
+		<hamplus/>
+		<hamindexfinger/>
+		<hamfingertip/>
+		<hamparend/>
+		<hamtouch/>
+		<hamshouldertop/>
+		<hamparbegin/>
+		<hammover/>
+		<hamreplace/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamparend/>
+		<hamrepeatfromstartseveral/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

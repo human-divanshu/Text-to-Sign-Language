@@ -1,0 +1,40 @@
+<sigml>
+<hns_sign gloss="swimming">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamflathand/>
+		<hamextfingero/>
+		<hampalmdl/>
+		<hamchest/>
+		<hamclose/>
+		<hammover/>
+		<hamarcr/>
+		<hamslow/>
+		<hamlargemod/>
+		<hamrepeatfromstartseveral/>
+		<hamplus/>
+		<hamflathand/>
+		<hamparbegin/>
+		<hamextfingerl/>
+		<hampalml/>
+		<hamplus/>
+		<hamextfingerr/>
+		<hampalmr/>
+		<hamparend/>
+		<hamparbegin/>
+		<hammiddlefinger/>
+		<hamfingernail/>
+		<hamplus/>
+		<hampalm/>
+		<hamparend/>
+		<hamclose/>
+		<hamchest/>
+		<hammoveo/>
+		<hamarcd/>
+		<hamsmallmod/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

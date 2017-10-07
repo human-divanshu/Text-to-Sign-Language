@@ -4,10 +4,12 @@
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
 		<hamfinger2/>
-		<hamextfingerd/>
-		<hampalmdr/>
-		<hamchest/>
-		<hammoveir/>
+		<hamthumbacrossmod/>
+		<hamfingerbendmod/>
+		<hamextfingero/>
+		<hampalmd/>
+		<hammoveol/>
+		<hamlargemod/>
 		<hamzigzag/>
 	</hamnosys_manual>
 </hns_sign>

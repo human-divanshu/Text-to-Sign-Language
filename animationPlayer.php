@@ -18,6 +18,7 @@
                 		<p class="alert-warning text-center" style="padding:5px; font-size:20px; font-weight:bold;" id="textHint"></p>
                 	</td>             
                 </tr>
+                <!-- Hide this to hide the controls -->
                 <tr style="display:none;">
                     <td align="center">
                         <span class="CWASAAvMenu av0" ></span>

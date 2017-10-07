@@ -5,10 +5,22 @@
 	<hamnosys_manual>
 		<hamfinger2/>
 		<hamthumbacrossmod/>
-		<hamextfingerul/>
-		<hampalmd/>
+		<hambetween/>
+		<hamfinger2/>
+		<hamfingerstraightmod/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hambetween/>
+		<hampalmul/>
 		<hamnose/>
+		<hamlrat/>
+		<hambetween/>
+		<hamnose/>
+		<hamseqbegin/>
 		<hamtouch/>
+		<hamfingerpad/>
+		<hamindexfinger/>
+		<hamseqend/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

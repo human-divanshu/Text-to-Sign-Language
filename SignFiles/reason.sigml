@@ -1,0 +1,30 @@
+<sigml>
+<hns_sign gloss="reason">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamcee12/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamhead/>
+		<hamlrbeside/>
+		<hamcircleo/>
+		<hamsmallmod/>
+		<hamfast/>
+		<hamrepeatfromstart/>
+		<hamplus/>
+		<hamfinger23/>
+		<hamindexfinger/>
+		<hamfingernail/>
+		<hammiddlefinger/>
+		<hamextfingerl/>
+		<hampalmd/>
+		<hamhead/>
+		<hamlrbeside/>
+		<hamcircleo/>
+		<hamsmallmod/>
+		<hamfast/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

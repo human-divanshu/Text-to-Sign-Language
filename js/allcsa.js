@@ -1,26 +1,3 @@
-//-------- js/zip.js --------
-/*
-Copyright (c) 2013 Gildas Lormeau. All rights reserved.
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-1. Redistributions of source code must retain the above copyright notice,
-this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in
-the documentation and/or other materials provided with the distribution.
-3. The names of the authors may not be used to endorse or promote products
-derived from this software without specific prior written permission.
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL JCRAFT,
-INC. OR ANY CONTRIBUTORS TO THIS SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
-OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
-EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-*/
 (function(obj) {
 "use strict";
 var ERR_BAD_FORMAT = "File format is not recognized.";
@@ -3757,6 +3734,43 @@ var myXHR, rqstData, rqstType;
 rqstType = form === "HEAD" ? "HEAD" : (form === null) || (form === "GET") ? "GET" : "POST";
 rqstData = (form === "HEAD") || (form === "POST") || (form === "GET") ? null : form;
 console.log("fetchURI fetching: " + theURI + " Type=" + rqstType);
+
+/*Check for data in cache starts here*/
+/*
+if(theURI.indexOf(".sigml") != -1) {
+	s = theURI;
+	arr = s.split("/");
+	currentGlossValue = arr[arr.length - 1];
+
+	ldb.get(theURI, function (value) {
+		if(value != null) {
+			console.log("Cache hit for sigml file : " + currentGlossValue);
+  			return theCB(value, 0, null, value);
+  		}
+	});
+}
+
+// caching animation responses
+else if(theURI.indexOf("animgenserver.pl") != -1) {
+	ldb.get(currentGlossValue, function (value) {
+		if(value != null) {
+			console.log("Cache hit for animation file : " + currentGlossValue);
+  			return theCB(value, 0, null, value);
+  		}
+	});
+}
+
+else {
+	ldb.get(theURI, function (value) {
+		if(value != null) {
+			console.log("Cache hit for URL: " + theURI);
+  			return theCB(value, 0, null, value);
+  		}
+	});
+}
+*/
+/*check for data in cache ends here*/
+
 if ((theSToCA.isInIE()) && (Access._isFileURL(theURI))) {
 myXHR = new ActiveXObject("Microsoft.XMLHTTP");
 myXHR.open(rqstType, theURI, true);
@@ -3785,6 +3799,33 @@ var msg, xhrok;
 xhrok = (myXHR.status === 0) || (myXHR.status === 200);
 if (xhrok) {
 console.log("fetchURI fetched:  " + theURI + " Status=" + myXHR.status);
+
+/*put data in cache starts here*/
+
+// caching sigml file
+// sigml file will be cached with theURI as ID
+/*
+if(theURI.indexOf(".sigml") != -1) {
+	s = theURI;
+	arr = s.split("/");
+	currentGlossValue = arr[arr.length - 1];
+	console.log("Caching a sigml file : " + currentGlossValue);
+	ldb.set(theURI, myXHR.responseText);
+}
+
+// caching animation responses
+else if(theURI.indexOf("animgenserver.pl") != -1) {
+	console.log("Caching animation response for : " + currentGlossValue);
+	ldb.set(currentGlossValue, myXHR.responseText);
+}
+
+else {
+	console.log("Caching :" + theURI);
+	ldb.set(theURI, myXHR.responseText);
+}
+*/
+/*put data in cache ends here*/
+
 return theCB(myXHR.responseText, 0, null, myXHR.responseText);
 } else {
 msg = "fetchURI: Failed for " + theURI + " Status=" + myXHR.status;

@@ -1,0 +1,16 @@
+<sigml>
+<hns_sign gloss="kme">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfingerhookmod/>
+		<hamthumbacrossmod/>
+		<hamfinger2/>
+		<hamthumbacrossmod/>
+		<hamextfingeri/>
+		<hampalmr/>
+		<hamchest/>
+		<hamclose/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

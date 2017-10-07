@@ -6,13 +6,12 @@
 		<hamparbegin/>
 		<hamfist/>
 		<hamplus/>
-		<hamflathand/>
-		<hamfingerbendmod/>
+		<hamceeall/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamextfingero/>
+		<hamextfingerol/>
 		<hamplus/>
-		<hamextfingero/>
+		<hamextfingerol/>
 		<hamparend/>
 		<hamparbegin/>
 		<hampalmd/>
@@ -20,16 +19,13 @@
 		<hampalmd/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamthumb/>
-		<hamfingermidjoint/>
+		<hamchest/>
+		<hamclose/>
 		<hamplus/>
-		<hamthumb/>
-		<hamfingermidjoint/>
-		<hamparend/>
-		<hamtouch/>
 		<hamlrat/>
 		<hamchest/>
 		<hamclose/>
+		<hamparend/>
 		<hamnodding/>
 	</hamnosys_manual>
 </hns_sign>

@@ -29,4 +29,13 @@ function login($emailId, $password) {
         return false;
     }
 }
+
+function getUsername($userId) {
+    $db = connect();
+    $stmt = $db->prepare("select username as user from users where userid = ?");
+    $stmt->execute(array($userId));
+    $result = $stmt->fetch(PDO::FETCH_ASSOC);
+    $db = null;
+    return $result['user'];  
+}
 ?>

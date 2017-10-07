@@ -1,0 +1,591 @@
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+संवैधानिक	संवैधानिक	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रथम	प्रथम	QO		adj	any	any		any
+राजभाषा	राजभाषा	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+अधिक	अधिक	QF		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+और	और	CC		adv				
+समझी	समझ	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चीनी	चीनी	NN		adj	f	any		any
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+यह	यह	DEM	0	pn	any	sg	3	d
+विश्व	विश्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सबसे	सबसे	INTF		adj	any	any		any
+अधिक	अधिक	QF		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+बोलियां	बोलियां	NN		unk				
+उत्तर	उत्तर	XC	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+मध्य	मध्य	XC		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विविध	विविध	JJ	0	n	m	sg	3	d
+राज्यों	राज्य	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+बोली	बोल	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+अन्य	अन्य	JJ		adj	any	any		any
+देशों	देश	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+६०	६०	QC		num				
+करोड़	करोड़	XC		punc				
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+लोग	लोग	NN	0	n	m	sg	3	d
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+बोलते	बोल	VM	ता	v	m	pl	any	
+,	,	SYM		punc				
+पढ़ते	पढ़ते	NNP		punc				
+और	और	CC		adv				
+लिखते	लिख	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+फ़िजी	फ़िजी	NN		unk				
+,	,	SYM		punc				
+मॉरिशस	मॉरिशस	NN		unk				
+,	,	SYM		punc				
+गयाना	गयाना	VM		unk				
+,	,	SYM		punc				
+सूरीनाम	सूरीनाम	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+अधिकतर	अधिकतर	JJ		adj	any	any		any
+और	और	CC		adv				
+नेपाल	नेपाल	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कुछ	कुछ	QF		adj	any	any		d
+जनता	जनता	NN	0	n	f	sg	3	d
+हिन्दी	हिन्दी	JJ	0	n	f	sg	3	d
+बोलती	बोल	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+राष्ट्रभाषा	राष्ट्रभाषा	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+राजभाषा	राजभाषा	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+सम्पर्क	संपर्क	JJ	0	n	m	sg		d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+जनभाषा	जनभाषा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सोपानों	सोपान	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पार	पार	NN		psp				
+कर	कर	VM	0	v	any	any	any	
+विश्वभाषा	विश्वभाषा	NN		unk				
+बनने	बन	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+अग्रसर	अग्रसर	NN		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भाषा	भाषा	NN	0	n	f	sg	3	d
+विकास	विकास	NN	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+जुड़े	जुड़े	XC		n	f	sg	3	d
+वैज्ञानिकों	वैज्ञानिक	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+भविष्यवाणी	भविष्यवाणी	NN	0	n	f	sg	3	d
+हिन्दी	हिन्दी	JJ	0	n	f	sg	3	d
+प्रेमियों	प्रेमी	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बड़ी	बड़ी	XC		punc				
+सन्तोषजनक	संतोषजनक	JJ	0	n	m	sg		d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+आने	आ	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+समय	समय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+विश्वस्तर	विश्वस्तर	NN		unk				
+पर	पर	PSP		psp				
+अन्तर्राष्ट्रीय	अंतर्राष्ट्रीय	JJ		adj	any	any		any
+महत्त्व	महत्त्व	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जो	जो	PRP		avy				
+चन्द	चंद	JJ		adj	any	any		any
+भाषाएं	भाषा	NN	0	n	f	pl		d
+होंगी	हो	VM	गा	v	f	pl	1	
+उनमें	उनमें	PRP		unk				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+प्रमुख	प्रमुख	JJ	0	n	m	sg	3	d
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हिन्दी	हिन्दी	JJ	0	n	f	sg	3	d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सम्बन्ध	सम्बन्ध	NN	0	n	m	sg	3	d
+संस्कृत	संस्कृत	JJ	0	n	f	sg	3	d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+सिन्धु	सिंधु	NN	0	n	m	sg		d
+से	से	PSP	0	v	any	any	any	
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+'	'	SYM		punc				
+सिन्धु	सिंधु	XC	0	n	m	sg		d
+'	'	SYM		punc				
+सिन्ध	सिंध	NN	0	n	m	sg		d
+नदी	नदी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+कहते	कह	VM	ता	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+ओर	ओर	NST		adv				
+उसी	उसी	DEM		unk				
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+उसके	उसके	PRP		unk				
+आस-पास	आस-पास	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+भूमि	भूमि	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सिन्धु	सिंधु	NN	0	n	m	sg		d
+कहने	कह	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+सिन्धु	सिंधु	NN	0	n	m	sg		d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+ईरानी	ईरानी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जाकर	जा	VM	कर	v	any	any	any	
+‘	‘	NN		n	m	sg		d
+हिन्दू	हिंदू	VM	0	n	m	sg		d
+’	’	VAUX		n	m	sg		d
+,	,	SYM		punc				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+फिर	फिर	RB	0	v	any	any	any	
+‘	‘	JJ		unk				
+हिन्द	हिंद	XC	0	n	m	sg		d
+’	’	NN		n	f	sg		d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बाद	बाद	NST		adv				
+में	में	PSP		psp				
+ईरानी	ईरानी	XC	0	n	f	sg	3	d
+धीरे-धीरे	धीरे-धीरे	XC		unk				
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अधिक	अधिक	QF		adv				
+भागों	भागों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+परिचित	परिचित	JJ	0	n	m	sg	3	d
+होते	हो	VM	ता	v	m	pl	any	
+गए	गए	VAUX		unk				
+और	और	CC		adv				
+इस	इस	DEM		pn	any	sg	3	o
+शब्द	शब्द	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+विस्तार	विस्तार	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+गया	गया	VAUX		unk				
+तथा	तथा	CC		adv				
+हिन्द	हिंद	JJ	0	n	m	sg		d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+वाचक	वाचक	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+में	में	PSP		psp				
+ईरानी	ईरानी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ईक	ईक	JJ		unk				
+प्रत्यय	प्रत्यय	NN	0	n	m	sg	3	d
+लगने	लग	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+(	(	SYM		punc				
+हिन्द	हिंद	JJ	0	n	m	sg		d
+ईक	ईक	XC		unk				
+)	)	SYM		punc				
+‘	‘	NN		unk				
+हिन्दीक	हिन्दीक	JJ		unk				
+’	’	NN		unk				
+बना	बना	VM	0	v	any	any	any	
+जिसका	जो	PRP	का	pn	m	sg	3	d
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+‘	‘	NN		unk				
+हिन्द	हिंद	NNP	0	n	m	sg		d
+का	का	PSP	का	psp	m	sg		d
+’	’	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+यूनानी	यूनानी	JJ	0	n	m	sg	3	d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+‘	‘	VM		unk				
+इन्दिका	इन्दिका	VAUX		n	m	sg	3	d
+’	’	NN		unk				
+या	या	CC		avy				
+अंग्रेजी	अंग्रेजी	JJ	0	n	f	sg	3	d
+शब्द	शब्द	NN	0	n	m	sg	3	d
+‘	‘	XC		unk				
+इण्डिया	इण्डिया	NNP		unk				
+’	’	NN		unk				
+आदि	आदि	RP	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+‘	‘	NN		unk				
+हिन्दीक	हिन्दीक	JJ		unk				
+’	’	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+ही	ही	RP		adv				
+विकसित	विकसित	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+हिन्दी	हिन्दी	JJ	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+इस	इस	DEM		pn	any	sg	3	o
+शब्द	शब्द	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्राचीनतम	प्राचीनतम	JJ		unk				
+प्रयोग	प्रयोग	NN	0	n	m	sg	3	d
+शरफुद्दीन	शरफुद्दीन	JJ		unk				
+यज्	यज्	XC		v	any	any	any	
++	+	SYM		punc				
+दी	दे	VM	या	v	f	sg	any	
+’	’	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+‘	‘	NN		unk				
+जफरनामा	जफरनामा	XC		psp	m	sg		o
+’	’	NNP		unk				
+(	(	SYM		punc				
+१४२४	१४२४	QC		num				
+)	)	SYM		punc				
+में	में	PSP		psp				
+मिलता	मिल	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्रोफ़ेसर	प्रोफ़ेसर	XC		punc				
+महावीर	महावीर	XC		adj	any	any		any
+सरन	सरन	XC		unk				
+जैन	जैन	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+"	"	SYM		punc				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+एवं	एवं	CC		avy				
+उर्दू	उर्दू	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अद्वैत	अद्वैत	JJ	0	n	m	sg	3	d
+"	"	SYM		punc				
+शीर्षक	शीर्षक	JJ	0	n	m	sg	3	d
+आलेख	आलेख	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+व्युत्पत्ति	व्युत्पत्ति	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+विचार	विचार	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+ईरान	ईरान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+प्राचीन	प्राचीन	JJ	0	n	m	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+अवेस्ता	अवेस्ता	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+'	'	SYM		punc				
+स्	स्	SYM		unk				
+'	'	SYM		punc				
+ध्वनि	ध्वनि	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+'	'	SYM		punc				
+स्	स्	SYM		unk				
+'	'	SYM		punc				
+को	को	PSP		psp				
+'	'	SYM		punc				
+ह्	ह्	SYM		unk				
+'	'	SYM		punc				
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बोला	बोल	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जैसे	जैसे	RDP		adv				
+संस्कृत	संस्कृत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+'	'	SYM		punc				
+असुर	असुर	XC	0	n	m	sg	3	d
+'	'	SYM		punc				
+शब्द	शब्द	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+वहां	वहाँ	PRP		adv				
+'	'	SYM		punc				
+अहुर	अहुर	NNP		unk				
+'	'	SYM		punc				
+कहा	कह	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अफ़ग़ानिस्तान	अफ़ग़ानिस्तान	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+सिन्धु	सिंधु	XC	0	n	m	sg		d
+नदी	नदी	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+पार	पार	NN		psp				
+हिन्दुस्तान	हिंदुस्तान	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+इलाके	इलाका	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+प्राचीन	प्राचीन	JJ	0	n	m	sg	3	d
+फ़ारसी	फ़ारसी	XC			punc			
+साहित्य	साहित्य	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+'	'	SYM		punc				
+हिन्द	हिंद	XC	0	n	m	sg		d
+'	'	SYM		punc				
+,	,	SYM		punc				
+'	'	SYM		punc				
+हिन्दुश	हिन्दुश	NN		unk				
+'	'	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+नामों	नाम	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+पुकारा	पुकार	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+तथा	तथा	CC		adv				
+यहां	यहाँ	PRP		adv				
+की	का	PSP	का	psp	f	sg		d
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+वस्तु	वस्तु	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+भाषा	भाषा	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+विचार	विचार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+'	'	SYM		punc				
+एडजेक्टिव	एडजेक्टिव	NN		unk				
+'	'	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+'	'	SYM		punc				
+हिन्दीक	हिन्दीक	NN		unk				
+'	'	SYM		punc				
+कहा	कह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+जिसका	जो	PRP	का	pn	m	sg	3	d
+मतलब	मतलब	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+'	'	SYM		punc				
+हिन्द	हिंद	NN	0	n	m	sg		d
+का	का	PSP	का	psp	m	sg		d
+'	'	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+'	'	SYM		punc				
+हिन्दीक	हिन्दीक	XC		unk				
+'	'	SYM		punc				
+शब्द	शब्द	NN	0	n	m	sg	3	d
+अरबी	अरबी	NN		adj	f	any		any
+से	से	PSP	0	v	any	any	any	
+होता	हो	VM	ता	v	m	sg	any	
+हुआ	हो	VAUX	या	v	m	sg	any	
+ग्रीक	ग्रीक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+'	'	SYM		punc				
+इन्दिके	इन्दिके	NN		unk				
+'	'	SYM		punc				
+,	,	SYM		punc				
+'	'	SYM		punc				
+इन्दिका	इन्दिका	VAUX		n	m	sg	3	d
+'	'	SYM		punc				
+,	,	SYM		punc				
+लैटिन	लैटिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+'	'	SYM		punc				
+इन्दिया	इन्दिया	NNP		unk				
+'	'	SYM		punc				
+तथा	तथा	NNP		punc				
+अंग्रेज़ी	अंग्रेज़ी	NN		punc				
+में	में	PSP		psp				
+'	'	SYM		punc				
+इण्डिया	इण्डिया	NNP		unk				
+'	'	SYM		punc				
+बन	बन	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अरबी	अरबी	NN		adj	f	any		any
+एवं	एवं	CC		avy				
+फ़ारसी	फ़ारसी	XC			punc			
+साहित्य	साहित्य	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+बोली	बोल	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषाओं	भाषा	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+'	'	SYM		punc				
+ज़बान-ए-हिन्दी	ज़बान-ए-हिन्दी	NN		unk				
+'	'	SYM		punc				
+,	,	SYM		punc				
+पद	पद	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+उपयोग	उपयोग	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+आने	आ	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+मुसलमानों	मुसलमान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+'	'	SYM		punc				
+ज़बान-ए-हिन्दी	ज़बान-ए-हिन्दी	NN		unk				
+'	'	SYM		punc				
+,	,	SYM		punc				
+'	'	SYM		punc				
+हिन्दी	हिन्दी	RDP	0	n	f	sg	3	d
+जुबान	जुबान	NN		unk				
+'	'	SYM		punc				
+अथवा	अथवा	CC		avy				
+'	'	SYM		punc				
+हिन्दी	हिन्दी	NN	0	n	f	sg	3	d
+'	'	SYM		punc				
+का	का	PSP	का	psp	m	sg		d
+प्रयोग	प्रयोग	NN	0	n	m	sg	3	d
+दिल्ली-आगरा	दिल्ली-आगरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+चारों	चार	QC	0	n	m	pl	3	o
+ओर	ओर	NST		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भाषा	भाषा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गैर-मुस्लिम	गैर-मुस्लिम	JJ		unk				
+लोग	लोग	NN	0	n	m	sg	3	d
+तो	तो	RP		avy				
+इस	इस	DEM		pn	any	sg	3	o
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बोले	बोल	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाले	वाला	PSP	0	n	m	pl	3	d
+भाषा-रूप	भाषा-रूप	NN		unk				
+को	को	PSP		psp				
+'	'	SYM		punc				
+भाखा	भाखा	NN		unk				
+'	'	SYM		punc				
+नाम	नाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पुकराते	पुकराते	NN		unk				
+थे	था	VM	था	v	m	pl	any	
+,	,	SYM		punc				
+'	'	SYM		punc				
+हिन्दी	हिन्दी	XC	0	n	f	sg	3	d
+'	'	SYM		punc				
+नाम	नाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+नहीं	नहीं	NEG		adv				
+.	.	SYM		punc				
+</s>
+<s>

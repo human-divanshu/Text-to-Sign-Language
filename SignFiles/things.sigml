@@ -1,0 +1,17 @@
+<sigml>
+<hns_sign gloss="things">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamflathand/>
+		<hamextfingero/>
+		<hambetween/>
+		<hamextfingerdo/>
+		<hampalmu/>
+		<hamstomach/>
+		<hamlrat/>
+		<hammover/>
+		<hamzigzag/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

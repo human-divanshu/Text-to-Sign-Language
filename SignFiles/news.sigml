@@ -4,12 +4,13 @@
 	</hamnosys_nonmanual>
 	<hamnosys_manual>
 		<hamflathand/>
-		<hamthumboutmod/>
+		<hamthumbopenmod/>
 		<hamextfingeru/>
 		<hampalmd/>
 		<hamear/>
 		<hamlrat/>
-		<hamtouch/>
+		<hambehind/>
+		<hamclose/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

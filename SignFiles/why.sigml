@@ -1,23 +1,21 @@
 <sigml>
-
-	<hns_sign gloss="why">
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture="hwa_I"/>
-			<hnm_eyebrows tag="RB"/>
-		</hamnosys_nonmanual>
-		<hamnosys_manual>
-			<hamfinger2/>
-			<hamthumbacrossmod/>
-			<hamextfingerl/>
-			<hambetween/>
-			<hamextfingeru/>
-			<hampalmd/>
-			<hamlrat/>
-			<hamshoulders/>
-			<hamclose/>
-			<hammovei/>
-			<hamrepeatfromstart/>
-		</hamnosys_manual>
-	</hns_sign>
-
+<hns_sign gloss="why">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hambetween/>
+		<hamfinger2345/>
+		<hamfingerbendmod/>
+		<hamthumboutmod/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamseqbegin/>
+		<hammover/>
+		<hammovel/>
+		<hamseqend/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
 </sigml>

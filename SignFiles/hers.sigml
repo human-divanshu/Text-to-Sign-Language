@@ -6,9 +6,13 @@
 		<hamfist/>
 		<hamextfingeru/>
 		<hampalmd/>
-		<hamchest/>
+		<hamshouldertop/>
 		<hamlrat/>
-		<hamnodding/>
+		<hamseqbegin/>
+		<hammoveo/>
+		<hammovei/>
+		<hammoveo/>
+		<hamseqend/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

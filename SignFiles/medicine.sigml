@@ -1,0 +1,17 @@
+<sigml>
+<hns_sign gloss="medicine">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamcee12/>
+		<hamfingerstraightmod/>
+		<hamextfingerul/>
+		<hampalml/>
+		<hamlips/>
+		<hamclose/>
+		<hammovei/>
+		<hamsmallmod/>
+		<hamrepeatfromstart/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

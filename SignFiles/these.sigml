@@ -5,13 +5,13 @@
 	<hamnosys_manual>
 		<hamflathand/>
 		<hamextfingero/>
+		<hambetween/>
+		<hamextfingerd/>
 		<hampalmu/>
-		<hamlrat/>
 		<hamchest/>
-		<hamclose/>
-		<hammover/>
-		<hamwavy/>
-		<hamsmallmod/>
+		<hamarmextended/>
+		<hamcircled/>
+		<hamlargemod/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

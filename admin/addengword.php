@@ -42,10 +42,18 @@ if(isset($_POST['engword'])) {
       $sql = "insert into englishwords(wordname) values('".$eword."')";
       $stmt = $db->prepare($sql);
       $stmt->execute(array());      
+
+      $sql = "select wordid as id from englishwords order by wordid desc limit 1";
+      $stmt = $db->prepare($sql);
+      $stmt->execute(array());
+
+      $result = $stmt->fetch(PDO::FETCH_ASSOC);
+      $id = $result['id'];
+
       $db = null;
     }
 
-    header("Location: dbmanager.php");
+    header("Location: editword.php?wordid=".$id);
     exit();
 
 }

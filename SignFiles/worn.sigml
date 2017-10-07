@@ -1,0 +1,19 @@
+<sigml>
+<hns_sign gloss="worn">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamfinger2/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamchest/>
+		<hamparbegin/>
+		<hammovedr/>
+		<hamsmallmod/>
+		<hamreplace/>
+		<hamextfingero/>
+		<hampalml/>
+		<hamparend/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

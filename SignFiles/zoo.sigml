@@ -10,26 +10,43 @@
 		<hamflathand/>
 		<hamparend/>
 		<hamparbegin/>
-		<hamextfingerl/>
+		<hamextfingeru/>
+		<hampalml/>
 		<hamplus/>
 		<hamextfingeru/>
-		<hamparend/>
-		<hamparbegin/>
-		<hampalmd/>
-		<hamplus/>
 		<hampalmr/>
 		<hamparend/>
 		<hamparbegin/>
 		<hampalm/>
 		<hamplus/>
-		<hamindexfinger/>
-		<hamfingerpad/>
+		<hammiddlefinger/>
+		<hamfingertip/>
 		<hamparend/>
 		<hamtouch/>
+		<hamshouldertop/>
+		<hamparbegin/>
 		<hammover/>
 		<hamreplace/>
-		<hampinch12/>
-		<hamrepeatfromstart/>
+		<hamcee12/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamparend/>
+		<hamreplace/>
+		<hampinchall/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamnomotion/>
+		<hamparbegin/>
+		<hammover/>
+		<hamreplace/>
+		<hamcee12/>
+		<hamextfingeru/>
+		<hampalml/>
+		<hamparend/>
+		<hamreplace/>
+		<hampinchall/>
+		<hamextfingeru/>
+		<hampalml/>
 	</hamnosys_manual>
 </hns_sign>
 </sigml>

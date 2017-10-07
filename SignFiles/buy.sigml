@@ -1,0 +1,32 @@
+<sigml>
+<hns_sign gloss="buy">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hampinchall/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamstomach/>
+		<hamclose/>
+		<hamparbegin/>
+		<hammoveo/>
+		<hamlargemod/>
+		<hamarcu/>
+		<hamlargemod/>
+		<hamparend/>
+		<hamnomotion/>
+		<hamplus/>
+		<hamfinger2345/>
+		<hamthumboutmod/>
+		<hamextfingero/>
+		<hampalmu/>
+		<hamchest/>
+		<hamclose/>
+		<hamparbegin/>
+		<hamreplace/>
+		<hamfist/>
+		<hamparend/>
+		<hammovei/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>

@@ -59,7 +59,7 @@ $db = null;
 <span style="background:red;">&nbsp; &nbsp;</span> - background means HamNoSys Unverified or Missing &nbsp; &nbsp;
 <span style="background:#ccc;">&nbsp; &nbsp;</span> - background means HamNoSys Verified<br>
 <br>
-<span id="searchhint" style="color:red;">Loading...</span>
+<span id="searchhint" style="color:red;">Words have been loaded. Use filter box above to find words.</span>
 </form>
 <div id="output">
 
@@ -85,11 +85,11 @@ $db = null;
 
         if(search_term.length == 0) {
             // display everything
-            for(ctr = 0; ctr < len; ctr++) {
-                currhtml = $("#output").html();
-                newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
-                $("#output").html(currhtml + newhtml);
-            }
+            // for(ctr = 0; ctr < len; ctr++) {
+            //     currhtml = $("#output").html();
+            //     newhtml = '<span class="eng_word'+eng_words[ctr]['verified']+'"><a href="editword.php?wordid=' + eng_words[ctr]['wordid'] + '">' + eng_words[ctr]['wordname'] + '</a></span>';
+            //     $("#output").html(currhtml + newhtml);
+            // }
         } else {
             // display only matching term
             for(ctr = 0; ctr < len; ctr++) {
@@ -101,13 +101,13 @@ $db = null;
                 }
             }
         }
-        $("#searchhint").hide();
+        // $("#searchhint").hide();
     }
 
     $(document).ready(function() {
         eng_words = JSON.parse($("#eng_json").val());
         len = eng_words.length;
-        filter();
+        //filter();
     });
 
     $("#search").keyup(function () {

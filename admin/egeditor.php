@@ -47,8 +47,9 @@
                         $fp = fopen("examples.txt", "w");
                         fwrite($fp, $text);
                         fclose($fp);
-                        echo "Examples saved!";
-                        header("Location: egeditor.php");
+                        echo "Examples saved! Please wait .... redirecting to updated file ...";
+                        //header("Location: egeditor.php");
+                        echo '<script>setTimeout(function() { location.replace("egeditor.php")}, 2000);</script>';
                     } catch(Exception $e) {
                         echo "Some error occured !";
                     }

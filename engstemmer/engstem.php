@@ -7,6 +7,8 @@ include('vendor/autoload.php');
 
 
 use Wamania\Snowball\English;
+use Skyeng\Lemmatizer;
+use Skyeng\Lemma;
 
 include("islblock.php");
 
@@ -16,6 +18,7 @@ if (isset($_GET['l'])) {
 	$s = preg_replace('/[^a-z\d]+/i', '_', $text);
 
 	$stemmer = new English();
+	$lemmatizer = new Lemmatizer();
 	
 	$result = array();
 	$input = explode("_", $s);
@@ -24,7 +27,8 @@ if (isset($_GET['l'])) {
 
 	foreach ($input as $word) {
 		if(!empty($word))
-			array_push($result, $stemmer->stem($word));
+			//array_push($result, $stemmer->stem($word));
+			array_push($result, $lemmatizer->getOnlyLemmas($word)[0]);
 	}
 
 	$final = array_diff($result,$blockedwords);

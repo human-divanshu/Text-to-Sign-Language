@@ -1,5 +1,7 @@
 {
     "require": {
-        "wamania/php-stemmer": "dev-master"
+        "wamania/php-stemmer": "dev-master",
+        "nlp-tools/nlp-tools": "^0.1.3",
+        "skyeng/php-lemmatizer": "^1.0"
     }
 }

@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Wamania\\Snowball\\' => array($vendorDir . '/wamania/php-stemmer/src'),
+    'Skyeng\\' => array($vendorDir . '/skyeng/php-lemmatizer/src'),
 );

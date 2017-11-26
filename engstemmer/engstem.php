@@ -5,8 +5,11 @@
 */
 include('vendor/autoload.php');
 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
-use Wamania\Snowball\English;
+// use Wamania\Snowball\English;
 use Skyeng\Lemmatizer;
 use Skyeng\Lemma;
 
@@ -17,7 +20,7 @@ if (isset($_GET['l'])) {
 	$text = trim($_GET['l']);
 	$s = preg_replace('/[^a-z\d]+/i', '_', $text);
 
-	$stemmer = new English();
+	// $stemmer = new English();
 	$lemmatizer = new Lemmatizer();
 	
 	$result = array();
@@ -27,7 +30,7 @@ if (isset($_GET['l'])) {
 
 	foreach ($input as $word) {
 		if(!empty($word))
-			//array_push($result, $stemmer->stem($word));
+			// array_push($result, $stemmer->stem($word));
 			array_push($result, $lemmatizer->getOnlyLemmas($word)[0]);
 	}
 

@@ -60,7 +60,7 @@ She is developing a system for ISL (Indian Sign Language) Automation that can be
 <div class="row" style="margin-bottom:30px;"> 
     <div class="col-md-8">
         <h1>Divanshu Singh</h1>
-        <p style="text-align:justify; line-height:1.8em;">Divanshu Singh completed his BCA from MVN University in 2015 and is currently pursuing MCA from Thapar University. He is currently working as web developer for this project. </p>
+        <p style="text-align:justify; line-height:1.8em;">Divanshu Singh completed his BCA from MVN University in 2015 and is currently pursuing MCA from Thapar University. He is currently working as software developer for this project. </p>
     </div>
     <div class="col-md-3"><br><br>
         <img src="images/div.jpg" class="img-responsive" style="margin:0 auto;height:200px;">

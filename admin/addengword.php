@@ -36,7 +36,7 @@ if(isset($_POST['engword'])) {
  
     $db = connect();
 
-    $eword = trim($_POST['engword']);
+    $eword = strtolower(trim($_POST['engword']));
 
     if(strlen($eword) > 0) {
       $sql = "insert into englishwords(wordname) values('".$eword."')";

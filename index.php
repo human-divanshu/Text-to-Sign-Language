@@ -17,7 +17,7 @@
     <h1 style="font-family: 'Baloo', cursive; margin-bottom:0; padding-bottom:0;">Text to Indian Sign Language conversion</h1>
 <p style="padding-left:10%; padding-right:10%; line-height:35px; font-size:16px;"><strong></strong><br>is a <a href="funding.php"><strong>DST sponsored</strong></a> research project being carried out at <a href="http://thapar.edu" target="_blank"><strong>Thapar University</strong></a>, Patiala.</p>
        <div><img src="images/logo.jpg" style="width:130px;"></div><br>
-<a href="avatar.php"><button type="button" class="btn btn-primary btn-lg">Experience us now !</button></a><br><br>
+<a href="avatarnew.php"><button type="button" class="btn btn-primary btn-lg">Experience us now !</button></a><br><br>
 <p style="padding-left:10%; padding-right:10%; line-height:25px; font-size:15px;">A special thanks to <a href="http://pingalwara.org/" target="_blank">All India Pingalwara Charitable Society</a>, Amritsar for their contributions.<br></p>
 <div><img src="images/school_logo.png" style=""></div>
             </div>

@@ -89,7 +89,7 @@ else {
 }
 ?>
         <br>
-        <a href="../avatar.php?mode=test&gloss=<?php echo $result1['wordname']; ?>" target="_blank" class="btn btn-success btn-sm">Test Sign</a>
+        <a href="../avatarnew.php?mode=test&gloss=<?php echo $result1['wordname']; ?>" target="_blank" class="btn btn-success btn-sm">Test Sign</a>
     </td>
     <td><input type="text" style="font-size:20px;" class="customfont" name="hamnosys" value="<?php echo $result2['notation']; ?>" readonly> </td>
 </tr>   

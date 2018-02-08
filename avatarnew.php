@@ -98,7 +98,13 @@ function weblog(line)
             <div id="menu1">
             <br>
             <label>Enter English text here</label>
-            <textarea id="engtext" class="form-control" style="width:100%; height:80px;"></textarea><br>
+            <textarea id="engtext" class="form-control" style="width:100%; height:80px;"><?php
+
+            if(isset($_GET['mode']) && isset($_GET['gloss'])) {
+              echo $_GET['gloss'];
+            }
+
+            ?></textarea><br>
             <button type="button" id="playeng" class="btn btn-primary">Play</button>
             <button type="button" id="btnClearEng" class="btn btn-default">Clear</button>
 
